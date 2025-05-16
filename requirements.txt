@@ -1,0 +1,7 @@
+streamlit==1.42.0
+openai==1.63.2
+langchain==0.3.18
+torch==2.7.0
+transformers==4.51.3
+PyPDF2==3.0.1
+streamlit_chat==0.1.1
